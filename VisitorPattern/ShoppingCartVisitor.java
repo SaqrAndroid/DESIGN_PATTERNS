@@ -1,4 +1,4 @@
-package com.balazsholczer.visitor;
+package com.visitor;
 
 public interface ShoppingCartVisitor {
 	public double visit(Table table);

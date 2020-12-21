@@ -1,4 +1,4 @@
-package com.balazsholczer.visitor;
+package com.visitor;
 
 public class Chair implements ShoppingItem {
 

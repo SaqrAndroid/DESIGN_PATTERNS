@@ -1,4 +1,4 @@
-package com.balazsholczer.visitor;
+package com.visitor;
 
 import java.util.ArrayList;
 import java.util.List;
